@@ -1,0 +1,20 @@
+{
+  "name": "travel_scraper",
+  "version": "1.0.0",
+  "description": "Basic Scraper",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node --import tsx index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawlee": "^3.11.2",
+    "puppeteer": "^23.2.1"
+  },
+  "devDependencies": {
+    "@crawlee/types": "^3.11.2",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}

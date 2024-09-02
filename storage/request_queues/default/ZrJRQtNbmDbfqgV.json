@@ -1,0 +1,9 @@
+{
+	"id": "ZrJRQtNbmDbfqgV",
+	"json": "{\"id\":\"ZrJRQtNbmDbfqgV\",\"url\":\"https://www.airbnb.co.uk/rooms/50633275\",\"loadedUrl\":\"https://www.airbnb.co.uk/rooms/50633275?source_impression_id=p3_1725312378_P35iOZ0Vps0BBvAZ\",\"uniqueKey\":\"https://www.airbnb.co.uk/rooms/50633275\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-09-02T21:26:19.516Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.airbnb.co.uk/rooms/50633275",
+	"url": "https://www.airbnb.co.uk/rooms/50633275"
+}

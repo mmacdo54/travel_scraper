@@ -1,9 +1,0 @@
-{
-	"id": "gsde1OIcsCrs5Nw",
-	"json": "{\"id\":\"gsde1OIcsCrs5Nw\",\"url\":\"https://www.airbnb.co.uk/rooms/33571268\",\"loadedUrl\":\"https://www.airbnb.co.uk/rooms/33571268\",\"uniqueKey\":\"https://www.airbnb.co.uk/rooms/33571268\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-09-02T21:26:27.195Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.airbnb.co.uk/rooms/33571268",
-	"url": "https://www.airbnb.co.uk/rooms/33571268"
-}

@@ -107,6 +107,7 @@ const crawl = async (urls: string[]) => {
         // Wait until it shows
         await page.waitForSelector(AMENITIES_MODAL_SELECTOR, WAIT_FOR_OPTIONS);
 
+        // Collect the text data from the page
         const siteData = await Promise.all([
           page.$eval(TITLE_SELECTOR, (el) => el.textContent),
           page.$eval(PROPERTY_SELECTOR, (el) => el.textContent),
